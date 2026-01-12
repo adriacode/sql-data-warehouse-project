@@ -1,2 +1,2 @@
 # sql-data-warehouse-project
-Course Repository - Building a Modern Data Warehouse - Data Engineering Bootcamp
+Building a modern data warehouse with SQL Server, including ETL processes, data modeling and analytics.
